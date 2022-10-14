@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, Laravel, Tailwind and HTML
 - 🌱 I’m currently learning Laravel and Tailwind
 - 💞️ I’m looking to collaborate on ODIN...
-- 📫 How to reach me vishtany@pm.me
+- 📫 How to reach me on twitter @vishtany or email me at vishtany@pm.me
 
 <!---
 vishtany/vishtany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
